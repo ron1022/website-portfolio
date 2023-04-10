@@ -1,0 +1,159 @@
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.navbar
+{
+
+
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+
+}
+
+
+#nav-bar
+{
+    position: sticky;
+    top: 10;
+    z-index: 10;
+}
+
+
+
+.navbar {
+ 
+justify-content: space-between;
+width: 100%;
+background-image: linear-gradient(to right,#5fa3f7, rgb(46, 31, 255));
+opacity: 80%;
+
+}
+
+
+/*-----banner-------*/
+
+.big-banner{
+
+
+background-image: url('bg2.jpg');
+background-size: 100%;
+background-repeat: no-repeat;
+width:1450px;
+height: fit-content;
+
+
+}
+
+.banner{
+
+   font-family: 'Silkscreen';
+
+
+}
+
+
+.info1 {
+
+    font-family: 'Silkscreen';
+    color: rgb(30, 65, 181);
+  
+}
+
+.music-banner{
+
+
+    background-image: url('bg3.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width:1560px;
+    height: fit-content;
+    
+    
+    }
+
+
+
+
+
+    .one {
+
+        font-family: 'Silkscreen';
+        color: rgb(255, 113, 186);
+      
+    }
+    
+
+
+    .two {
+
+        font-family: 'Silkscreen';
+        color: rgb(240, 116, 0);
+      
+    }
+    
+    .three {
+
+        font-family: 'Silkscreen';
+        color: rgb(223, 194, 1);
+      
+    }
+
+    .four {
+
+        font-family: 'Silkscreen';
+        color: rgb(38, 66, 157);
+      
+    }
+
+    .five {
+
+        font-family: 'Silkscreen';
+        color: rgb(150, 29, 231);
+      
+    }
+
+
+    .stream-banner{
+
+
+        background-image: url('BG5.jpg');
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width:1450px;
+        height: fit-content;
+        
+        
+    
+        }
+
+        .nj1 {
+
+            font-family: 'Silkscreen';
+            color: rgb(182, 255, 186);
+          
+        }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
